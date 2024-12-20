@@ -10,4 +10,5 @@ This directory contains lists of basins that were used in the model training and
 ## scripts
 This directory contains shell scripts that were used to train the LSTM models, to run the ensemble means and to run the evaluation. Note that all of the calculations are done with NeuralHydrology, these scripts are just tools to run the utilities of NeuralHydrology.
 
+## References
 Kratzert, F., Gauch, M., Nearing, G., & Klotz, D. (2022). NeuralHydrology---A Python library for Deep Learning research in hydrology. Journal of Open Source Software, 7(71), 4050.
